@@ -1,0 +1,25 @@
+.header {
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+section {
+    text-align: center;
+}
+
+footer {
+    height: 8rem;
+    background-color: black;
+    width: 100%;
+}
+
+.facebook {
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+    padding-top: 2rem;
+}
+
+.contact {
+    float: right;
+}
